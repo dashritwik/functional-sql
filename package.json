@@ -1,0 +1,19 @@
+{
+  "name": "function-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Functional SQL.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hritwik das",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
